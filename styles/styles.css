@@ -29,7 +29,7 @@ overflow: hidden;}
   grid-row-gap: 70px;
 }
 
-grid-item-1 {
+.grid-item-1 {
 border: 2px solid #444444;
 background-color: #CDF1FE;
 }
