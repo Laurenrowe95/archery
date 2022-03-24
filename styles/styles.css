@@ -29,28 +29,33 @@ overflow: hidden;}
   grid-row-gap: 70px;
 }
 
-.grid-item-1 {
+grid-item-1 {
 border: 2px solid #444444;
-background-color: #03a3df;
+background-color: #CDF1FE;
 }
 .grid-item-2 {
   border: 2px solid #444444;
-  background-color: #03a3df;
+  background-color: #CDF1FE;
 }
 
 .grid-item-3 {border: 2px solid #444444;
-  background-color: #03a3df;
+  background-color: #CDF1FE;
 }
 
 .grid-item-4 {border: 2px solid #444444;
-background-color: #03a3df;
+background-color: #CDF1FE;
 }
 
 .grid-item-5 {border: 2px solid #444444;
-background-color: #03a3df;
+background-color: #CDF1FE;
 }
 
 .grid-item-6 {
 border: 2px solid #444444;
-background-color: #03a3df;
+background-color: #CDF1FE;
+}
+
+nav a {
+  padding: .5rem;
+  margin: .5rem;
 }
